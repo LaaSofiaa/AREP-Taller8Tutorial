@@ -1,5 +1,7 @@
 # AREP Taller 8
 
+Autora: Laura Sofía Gil Chaves
+
 ## Descripción del Proyecto
 
 Este proyecto implementa un modelo que utiliza un sistema de invocación basado en prompts. 
